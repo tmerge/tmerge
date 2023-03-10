@@ -23,7 +23,7 @@ I'm a passionate IT sysadmin who loves to code and explore new technologies. Bes
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://linkedin.com/in/til-merge)
 
 ## ⚡ Fun fact
 

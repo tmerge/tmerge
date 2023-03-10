@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Til 👋
 
-<!--
-**tmerge/tmerge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate IT sysadmin who loves to code and explore new technologies. Besides my tasks as sysadmin I enjoy building little web applications, APIs, and automating tasks to make people's lives easier. I am always looking for ways to learn and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+
+- [Personal API](https://github.com/tmerge/tmapi) - Little API to query infos about me and my skillset
+
+## 🌱 I’m currently learning
+
+- Go
+- Docker
+- Terraform
+
+## 💬 Ask me about
+
+- Python
+- HTML & CSS
+- JS
+- Azure
+
+## 📫 How to reach me
+
+- [LinkedIn](https://linkedin.com/in/yourusername)
+
+## ⚡ Fun fact
+
+I enjoy playing video games and be a volunteer firefighter in my freetime
+
+#### Github Stats
+
+![Github stats about til](https://github-readme-stats.vercel.app/api?username=tmerge&show_icons=true&theme=radical)

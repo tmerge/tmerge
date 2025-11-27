@@ -8,18 +8,16 @@ I'm a passionate Cloud Ops engineer who loves to code and explore new technologi
 
 ## 🔭 I’m currently working on
 
-- [Personal API](https://github.com/tmerge/tmapi) - Little API to query infos about me and my skillset
+```
+ def tmerge() -> None:
+    print("welcome to my github account")
 
-## 🌱 I’m currently learning
-
-- Go
-- Docker
-- Terraform
-
+```
 ## 💬 Ask me about
 
 - Python
-- HTML & CSS
+- Docker
+- Kubernetes
 - JS
 - Azure
 
@@ -30,7 +28,3 @@ I'm a passionate Cloud Ops engineer who loves to code and explore new technologi
 ## ⚡ Fun fact
 
 I enjoy playing video games and be a volunteer firefighter in my freetime
-
-#### Github Stats
-
-![Github stats about til](https://github-readme-stats.vercel.app/api?username=tmerge&show_icons=true&theme=radical)

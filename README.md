@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./tm_banner.png)
 
 # Hi there, I'm Til 👋
 

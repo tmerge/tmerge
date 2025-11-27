@@ -8,7 +8,7 @@ I'm a passionate Cloud Ops engineer who loves to code and explore new technologi
 
 ## 🔭 I’m currently working on
 
-```
+```python
  def tmerge() -> None:
     print("welcome to my github account")
 
@@ -24,7 +24,3 @@ I'm a passionate Cloud Ops engineer who loves to code and explore new technologi
 ## 📫 How to reach me
 
 - [LinkedIn](https://linkedin.com/in/til-merge)
-
-## ⚡ Fun fact
-
-I enjoy playing video games and be a volunteer firefighter in my freetime
